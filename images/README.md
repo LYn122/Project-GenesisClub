@@ -1,20 +1,19 @@
-# 图片说明
+# Image Documentation
 
-本文件夹包含info.html页面使用的图片。
+This folder contains images used by the info.html page.
 
-## 需要的图片文件：
+## Required Image Files:
 
-1. **community.jpg** - 社区活动照片，展示志愿者在帮助社区居民的场景
-2. **education.jpg** - 教育项目照片，展示孩子们在学习的场景  
-3. **volunteers.jpg** - 志愿者照片，展示团队成员一起工作的场景
+1. **community.jpg** - Community activity photo showing volunteers helping community residents
+2. **education.jpg** - Education program photo showing children learning
+3. **volunteers.jpg** - Volunteer photo showing team members working together
 
-## 图片要求：
+## Image Requirements:
 
-- 图片格式：JPG或PNG
-- 推荐尺寸：至少800x600像素
-- 所有图片都已在HTML中设置了alt文本以提高可访问性
+- Image format: JPG or PNG
+- Recommended size: At least 800x600 pixels
+- All images have alt text set in HTML for accessibility
 
-## 注意：
+## Note:
 
-请确保所有图片文件都已正确放置在images文件夹中，并在HTML中正确引用。
-
+Please ensure all image files are properly placed in the images folder and correctly referenced in HTML.

@@ -1,18 +1,17 @@
-# Do Good Well 项目
+# Do Good Well Project
 
-这是一个为"做善事"组织创建的网站项目。
+A website project created for the "Do Good Well" organization.
 
-## 团队成员
+## Team Members
 
 ### Eric (info-page)
 **Reflection:**
-[待完成 - 将在info-page分支完成后填写]
+[To be completed]
 
 **Bugs:**
-[待完成 - 将列出发现的任何问题]
+[To be completed]
 
 ---
 
-### 其他团队成员
-[其他团队成员将在各自的分支中添加他们的信息]
-
+### Other Team Members
+[Other team members will add their information in their respective branches]
